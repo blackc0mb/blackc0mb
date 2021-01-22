@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi [Tonatiuh][website] there 👋
 
-**blackc0mb/blackc0mb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/cshkrs?color=%231DA1F2&label=cshkrs&logo=twitter&style=for-the-badge)](https://twitter.com/cshkrs)
 
 Here are some ideas to get you started:
 
@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!-- LINKS -->
+[website]: https://github.com/blackc0mb/
