@@ -1,17 +1,16 @@
-### Hi [Tonatiuh][website] there 👋
+### Hi Tonatiuh here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/cshkrs?color=%231DA1F2&label=cshkrs&logo=twitter&style=for-the-badge)](https://twitter.com/cshkrs)
+#### IT enthusiast, father
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on web development skills
+- 🌱 I’m currently learning web development, python
+- 👯 I’m looking to collaborate on any project, volunteer
+- 🤔 I’m looking for help with growing my development skills
+- 💬 Ask me about SAP-ABAP, SAP Business Intelligence & Manage SAP Environments
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love sports (football, baseball, soccer) and sometimes jogging :), also rock music
+- :football: Philadelphia Eagles
 
 <!-- LINKS -->
-[website]: https://github.com/blackc0mb/
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/cshkrs?color=%231DA1F2&label=cshkrs&logo=twitter&style=for-the-badge)](https://twitter.com/cshkrs)
