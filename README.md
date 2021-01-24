@@ -1,5 +1,5 @@
-### Hi Tonatiuh here 👋
-
+## Hi Tonatiuh here 👋
+---
 ### IT enthusiast, father
 
 - 🔭 I’m currently working on web development skills
@@ -12,5 +12,6 @@
 - :football: Philadelphia Eagles
 
 <!-- LINKS -->
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/cshkrs?color=%231DA1F2&label=cshkrs&logo=twitter&style=for-the-badge)](https://twitter.com/cshkrs)
+\
+![Visitor Count](https://profile-counter.glitch.me/blackc0mb/count.svg)
