@@ -3,7 +3,7 @@
 ### IT enthusiast, father
 
 - 🔭 I’m currently working on web development skills
-- 🌱 I’m currently learning web development, python
+- 🌱 I’m currently learning web development (HTML, CSS, JS), python
 - 👯 I’m looking to collaborate on any project, volunteer
 - 🤔 I’m looking for help with growing my development skills
 - 💬 Ask me about SAP-ABAP, SAP Business Intelligence & Manage SAP Environments
