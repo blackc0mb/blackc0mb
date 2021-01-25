@@ -12,6 +12,6 @@
 - :football: Philadelphia Eagles
 
 ---
-### How to reach me
+### How to reach me:
 - [Twitter @cshkrs](https://twitter.com/cshkrs)
 - [Linkedin](https://www.linkedin.com/in/t-morales)
