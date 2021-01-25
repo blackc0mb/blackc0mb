@@ -13,6 +13,6 @@
 
 ---
 ### How to reach me
-:heavy_check_mark: [Twitter @cshkrs](https://twitter.com/cshkrs)
+:heavy_minus_sign: [Twitter @cshkrs](https://twitter.com/cshkrs)
 \
-:heavy_check_mark: [Linkedin](https://www.linkedin.com/in/t-morales)
+:heavy_minus_sign: [Linkedin](https://www.linkedin.com/in/t-morales)
