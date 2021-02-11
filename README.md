@@ -1,6 +1,6 @@
 ## Hi Tonatiuh here 👋
 ---
-### IT enthusiast, newbie developer, father, husband
+### IT enthusiast, learning web development, father, husband
 
 - 🔭 I’m currently working on web development skills
 - 🌱 I’m currently learning web development (HTML, CSS, JS), python
@@ -8,8 +8,8 @@
 - 🤔 I’m looking for help with growing my development skills
 - 💬 Ask me about SAP-ABAP, SAP Business Intelligence & Manage SAP Environments
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love sports (football, baseball, soccer) and sometimes jogging :blush:, also rock music
-- :football: Philadelphia Eagles
+- ⚡ Fun fact: I love sports (football, baseball, soccer) and sometimes jogging 😊, also rock music
+- 🏈 Philadelphia Eagles
 
 ---
 ### How to reach me:
