@@ -1,6 +1,6 @@
 ## Hi Tonatiuh here 👋
 ---
-### Developer in my freetime, father, husband
+### Developer in my free time, father, husband
 
 - 🔭 I’m currently working on web development skills
 - 🌱 I’m currently learning web development (HTML, CSS, JS), python
