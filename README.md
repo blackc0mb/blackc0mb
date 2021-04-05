@@ -1,9 +1,9 @@
-## Hi Tonatiuh here 👋
----
+## Hi Tonatiuh here 👋  
+
 ### Developer in my free time, father, husband
 
 - 🔭 I’m currently working on web development skills
-- 🌱 I’m currently learning web development (HTML, CSS, JS), python
+- 🌱 I’m currently learning web development (HTML, CSS, JS) & Python
 - 👯 I’m looking to collaborate on any project, volunteer
 - 🤔 I’m looking for help to improve my development skills
 - 💬 Ask me about SAP-ABAP, SAP Business Intelligence & Manage SAP Environments
@@ -25,3 +25,5 @@
 <!-- - [Twitter @cshkrs](https://twitter.com/cshkrs)
 - [Linkedin](https://www.linkedin.com/in/t-morales)
 - [Telegram](https://t.me/cshkrs) -->
+
+---  
