@@ -25,5 +25,3 @@
 <!-- - [Twitter @cshkrs](https://twitter.com/cshkrs)
 - [Linkedin](https://www.linkedin.com/in/t-morales)
 - [Telegram](https://t.me/cshkrs) -->
-
----  
