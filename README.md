@@ -1,4 +1,4 @@
-<h2>Hi Tonatiuh here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>  
+<h1>Hi Tonatiuh here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ```Python
 class readme():
@@ -35,11 +35,11 @@ class readme():
 
 ---  
 ### How to reach me:
-<div style="text-align: center">
+<p align="center">
   <a href="https://twitter.com/cshkrs" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@cshkrs%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://t.me/cshkrs" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/t-morales" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+</p>
 
 ---  
 <!-- retro visitor counter -->
