@@ -7,7 +7,7 @@ class readme():
         'name': 'Tonatiuh Morales',
         'about': 'Developer in my free time, father, husband | SAP Technical Lead',
         'pronouns': 'he/him',
-        'fun fact': 'I love sports (football, baseball, soccer) and sometimes jogging 😊, also rock music',
+        'fun fact': 'I like sports (football, baseball, soccer) | jogging 🏃 | Rock music 🎸',
         'fav teams': '🏈 Philadelphia Eagles, ⚾ Atlanta Braves, ⚽ Santos Laguna, México'
         }
 
